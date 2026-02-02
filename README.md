@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olayinka Adamu</h1>
-<h3 align="center">I am a Data Analyst with a passion about for turning data into insights</h3>
+<h3 align="center">I am a Data Analyst with a passion for turning data into insights</h3>
 
 - 🔭 I’m currently working on **Healthcare Visits Dashboard**
 
