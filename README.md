@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced SQL and Excel for Analysis**
 
-- 👯 I’m looking to collaborate on **Churn Analysis**
+- 👯 I’m looking to collaborate on **Business Performance Dashboard**
 
 - 🤝 I’m looking for help with **Advanced SQL queries**
 
